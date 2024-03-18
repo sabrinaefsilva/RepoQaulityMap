@@ -13,13 +13,18 @@ Antes de executar os testes, você precisará ter as seguintes ferramentas insta
 
 1. Clone este repositório para o seu ambiente local:
 
+ https://github.com/sabrinaefsilva/RepoQaulityMap.git
 
 2. Instale as dependências do projeto executando o seguinte comando no diretório do projeto:
+
+npm install
 
 
 ## Execução dos Testes
 
 Para executar os testes, você pode usar o seguinte comando:
+
+npm test
 
 
 Isso iniciará a execução dos testes automatizados usando Playwright.
